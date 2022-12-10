@@ -1,3 +1,4 @@
+export { ReactLogo } from '@styled-icons/simple-icons';
 export { Chat } from 'styled-icons/heroicons-outline';
 export { ArrowLeft } from 'styled-icons/heroicons-solid';
 export { Cake, Favorite, Person } from 'styled-icons/material';
